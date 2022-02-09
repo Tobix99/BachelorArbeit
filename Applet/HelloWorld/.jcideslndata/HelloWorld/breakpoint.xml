@@ -1,0 +1,18 @@
+<JavaCardSolution name="C:/Users/theinze/repo/Bachelorarbeit/Applet/HelloWorld/.jcideslndata/HelloWorld/breakpoint.xml">
+    <breakPointInfo>
+        <bpVersion>2</bpVersion>
+        <projects>
+            <project name="HelloWorld">
+                <packages>
+                    <package name="de/tobiasheinze/helloworld">
+                        <files>
+                            <file name="helloworld.java">
+                                <lines />
+                            </file>
+                        </files>
+                    </package>
+                </packages>
+            </project>
+        </projects>
+    </breakPointInfo>
+</JavaCardSolution>

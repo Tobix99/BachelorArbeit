@@ -1,0 +1,12 @@
+<JavaCardConfiguration name="HelloWorld">
+    <Config activeconfig="Debug">
+        <ConfigItem name="Debug" chipPack="JAVACOS">
+            <InstallConfig>
+                <PKG project_name="HelloWorld" pkg_name="de.tobiasheinze.helloworld" aid="41 41 41 41 41 41 41" major="1" minor="0">
+                    <APPLET aid="41 41 41 41 41 41 41 00" authority="" instanceaid="" parameter="" privileges="" index="-18992" name="helloworld" />
+                </PKG>
+            </InstallConfig>
+            <ScriptConfig before_build="" after_build="" />
+        </ConfigItem>
+    </Config>
+</JavaCardConfiguration>

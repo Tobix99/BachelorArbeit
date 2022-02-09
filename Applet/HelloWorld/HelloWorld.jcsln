@@ -1,0 +1,11 @@
+<JavaCardSolution name="HelloWorld">
+    <JavaCardProjects>
+        <JavaCardProject path="HelloWorld/HelloWorld.jcproj" />
+    </JavaCardProjects>
+    <Build>
+        <BuildDependon />
+    </Build>
+    <Platform>
+        <ChipPack Name="JAVACOS" />
+    </Platform>
+</JavaCardSolution>
