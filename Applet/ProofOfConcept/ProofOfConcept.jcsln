@@ -1,0 +1,11 @@
+<JavaCardSolution name="ProofOfConcept">
+    <JavaCardProjects>
+        <JavaCardProject path="ProofOfConcept/ProofOfConcept.jcproj" />
+    </JavaCardProjects>
+    <Build>
+        <BuildDependon />
+    </Build>
+    <Platform>
+        <ChipPack Name="JAVACOS" />
+    </Platform>
+</JavaCardSolution>

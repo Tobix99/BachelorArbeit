@@ -1,0 +1,26 @@
+<JavaCardSolution name="C:/Users/theinze/repo/Bachelorarbeit/Applet/ProofOfConcept/.jcideslndata/ProofOfConcept/breakpoint.xml">
+    <breakPointInfo>
+        <bpVersion>2</bpVersion>
+        <projects>
+            <project name="ProofOfConcept">
+                <packages>
+                    <package name="ProofOfConcept">
+                        <files>
+                            <file name="ProofOfConcept.java">
+                                <lines>
+                                    <line>
+                                        <lineNumber>229</lineNumber>
+                                        <valid>1</valid>
+                                        <invalidTimes>0</invalidTimes>
+                                        <Condition></Condition>
+                                        <logMessage></logMessage>
+                                    </line>
+                                </lines>
+                            </file>
+                        </files>
+                    </package>
+                </packages>
+            </project>
+        </projects>
+    </breakPointInfo>
+</JavaCardSolution>

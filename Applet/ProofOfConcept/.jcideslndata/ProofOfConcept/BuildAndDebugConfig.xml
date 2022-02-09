@@ -1,0 +1,12 @@
+<JavaCardConfiguration name="ProofOfConcept">
+    <Config activeconfig="Debug">
+        <ConfigItem name="Debug" chipPack="JAVACOS">
+            <InstallConfig>
+                <PKG project_name="ProofOfConcept" pkg_name="ProofOfConcept" aid="41 41 41 41 41 41 43" major="1" minor="0">
+                    <APPLET aid="41 41 41 41 41 41 43 00" authority="" instanceaid="" parameter="" privileges="" index="-23280" name="ProofOfConcept" />
+                </PKG>
+            </InstallConfig>
+            <ScriptConfig before_build="" after_build="" />
+        </ConfigItem>
+    </Config>
+</JavaCardConfiguration>
