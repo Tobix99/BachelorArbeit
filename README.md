@@ -21,6 +21,8 @@ In diesem Ordner ist das Start-Skript für den Simulator abgelegt. Dabei muss vo
 Wichtig:
 Dabeo sollte nach dem Start nicht vergessen werden, das Applet mithilfe der Host-Anwednung in dem Simulator zu installieren. Dafür im Hauptmenu der Host-Anwendung "4" drücken und das zu installierende Applet auswählen.
 
+Um das zu ladene Applet zu ändern, bitte die enstsprechenden Zeilen in "Virtual PCSC/jcardsim.cfg" ändern
+
 
 ### Speedtest
 
