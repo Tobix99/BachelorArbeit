@@ -1,0 +1,1 @@
+java -cp ".\HelloWorld.zip;.\ProofOfConcept.zip;jcardsim-3.0.5-SNAPSHOT.jar" com.licel.jcardsim.remote.BixVReaderCard jcardsim.cfg
